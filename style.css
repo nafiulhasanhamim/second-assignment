@@ -1,0 +1,157 @@
+
+
+.section1,.section2{
+    background-color:hotpink;
+}
+.section2{
+    padding-bottom:15px;;
+}
+.header-img{
+    width:200px;
+    margin-top:30px;
+}
+.navigation{
+    margin-top:15px;
+    
+}
+.penguins{
+    color:#FABE4C;
+    font-weight:bold;
+    margin-top:40px;
+    margin-left:60px;
+}
+.winter{
+    font-size:40px;
+    font-weight: bold;
+    margin-left:60px;
+    color:blueviolet;
+}
+.para1{
+    margin-left:60px;
+    width:250px;
+    color:gray;
+}
+.Button{
+    margin-left:100px;
+}
+.mask{
+    
+    width:450px;
+}
+
+
+.woman-heading{
+    font-size:40px;
+    margin-left:70px;
+    margin-bottom:25px;
+}
+
+.background{
+    background-color:aqua;
+    border-radius:15px;
+    padding:15px;
+    margin-left:30px;
+    margin-bottom:25px;
+    width:290px;
+}
+.img-background{
+    background-color:#F1F1F1;
+    border-radius:15px;
+    padding:12px 20px 20px 25px;
+}
+.images{
+    width:100%;
+    height:210px;
+}
+.footer{
+    margin:20px;
+}
+.footer-heading{
+    margin:10px;
+ color:rgba(128, 128, 128, 0.9);
+
+}
+.footer-para{
+    color:rgba(128, 128, 128, 0.9);
+}
+.dollar{
+    color:#FABE4C;
+    font-size:40px;
+}
+
+.car-icon{
+    width:20px;
+    height:25px;
+    margin:18px 5px 18px 20px;
+}
+.button1{
+    background-color:#9AB338;
+    border-radius:7px;
+    border:none;
+    margin-bottom:20px;
+    margin-left:10px;
+}
+.buy-now{
+    margin-right:15px;
+    color:white;
+}
+
+
+.gap{
+    height:30px;
+    margin-bottom:10px;
+}
+
+.icon-background1{
+    background-color:yellowgreen;
+    border-radius:10px;
+    margin-bottom:20px;
+    height:150px;
+    width:440px;
+}
+
+.icon-background2{
+    background-color:mediumorchid;
+    border-radius:10px;
+    margin-bottom:20px;
+    height:150px;
+    width:440px;
+}
+
+.icon-background3{
+    background-color:mediumspringgreen;
+    border-radius:10px;
+    margin-bottom:20px;
+    height:150px;
+    width:440px;
+}
+.icon{
+    width:70px;
+    height:70px;
+    margin:30px 45px 0px 25px;
+    float:left;
+}
+.icon-heading{
+    padding:20px 0 5px 5px;
+    font-size:25px;
+}
+.icon-para{
+    width:450px;
+    font-weight:600;
+}
+
+.main-image{
+    width:400px;
+    height:300px;
+    margin:90px 0 50px 50px;
+    padding-right:20px;
+}
+
+.contact{
+    padding: 3% 11%;
+    background:pink;
+}
+.form-group label{
+    
+    font-weight: bold;
+}
