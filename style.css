@@ -1,14 +1,26 @@
 
-
+*{
+    margin:0 auto;
+    padding:0;
+}
 .section1,.section2{
     background-color:hotpink;
 }
 .section2{
     padding-bottom:15px;;
 }
-.header-img{
+.logo1{
     width:200px;
+    float:left;
     margin-top:30px;
+    margin-right:37%;
+}
+.navigation{
+    padding-top:14px;
+}
+.clear{
+    clear:both;
+    
 }
 .navigation{
     margin-top:15px;
